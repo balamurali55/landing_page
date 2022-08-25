@@ -1,0 +1,10 @@
+.floating {
+  position: absolute;
+  background-color: rgb(237, 242, 246);
+  right: 0;
+  width: 50vw;
+  height: 55%;
+  z-index: -100;
+  border-radius: 0 0 0 80px;
+  top: 0;
+}

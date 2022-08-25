@@ -1,0 +1,13 @@
+.App {
+  overflow: hidden;
+  align-items: center;
+  margin-bottom: 10vh;
+}
+
+.light-text {
+  color: rgb(141, 142, 147);
+}
+
+.big-text {
+  font-family: "Oswald", sans-serif;
+}
