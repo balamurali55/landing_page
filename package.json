@@ -1,7 +1,7 @@
 {
   "name": "landing_page",
   "version": "0.1.0",
-  "homepage": "https://balamurali55.github.io/landing_pages",
+  "homepage": "https://balamurali55.github.io/landing_page",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.2.0",
