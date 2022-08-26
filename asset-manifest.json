@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/landing_page/static/css/main.82f6254b.css",
-    "main.js": "/landing_page/static/js/main.8ab20035.js",
-    "index.html": "/landing_page/index.html",
-    "main.82f6254b.css.map": "/landing_page/static/css/main.82f6254b.css.map",
-    "main.8ab20035.js.map": "/landing_page/static/js/main.8ab20035.js.map"
+    "main.css": "/sunlighten_react_project.git/static/css/main.073c9b0a.css",
+    "main.js": "/sunlighten_react_project.git/static/js/main.0e36fc24.js",
+    "static/js/787.b1b8a115.chunk.js": "/sunlighten_react_project.git/static/js/787.b1b8a115.chunk.js",
+    "static/media/logo.svg": "/sunlighten_react_project.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sunlighten_react_project.git/index.html",
+    "main.073c9b0a.css.map": "/sunlighten_react_project.git/static/css/main.073c9b0a.css.map",
+    "main.0e36fc24.js.map": "/sunlighten_react_project.git/static/js/main.0e36fc24.js.map",
+    "787.b1b8a115.chunk.js.map": "/sunlighten_react_project.git/static/js/787.b1b8a115.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82f6254b.css",
-    "static/js/main.8ab20035.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0e36fc24.js"
   ]
 }
