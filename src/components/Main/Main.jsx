@@ -388,7 +388,7 @@ const Main = () => {
           <Button variant="danger" size="50">
             SCHEDULE A DEMO
           </Button>{" "}
-          <p className="letters">To See A Preview</p>
+          <p className="letters light-text ms-3">To See A Preview</p>
         </div>
       </div>
     </div>

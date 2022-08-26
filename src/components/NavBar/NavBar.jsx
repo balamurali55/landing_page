@@ -27,7 +27,7 @@ function NavBar() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav" id="dropdown">
           <Nav className="me-auto"></Nav>
-          <Nav >
+          <Nav>
             <Nav.Link href="#deets">Product </Nav.Link>
             <Nav.Link href="#memes">Features </Nav.Link>
             <Nav.Link href="#memes">Pricing </Nav.Link>
